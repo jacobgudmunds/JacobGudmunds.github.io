@@ -61,6 +61,10 @@ p {
 .navbar-brand h1 {
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
+  left: 0;
+=======
+>>>>>>> origin
 }
 
 /* Desktop view */
